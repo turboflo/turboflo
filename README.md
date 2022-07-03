@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A computer science student from Germany</h3>
+<h3 align="center">A software developer from Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=turboflo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="turboflo" /> </p>
 
